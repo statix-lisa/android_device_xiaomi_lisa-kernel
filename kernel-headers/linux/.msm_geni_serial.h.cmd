@@ -1,0 +1,1 @@
+cmd_usr/include/linux/msm_geni_serial.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/msm_geni_serial.h usr/include/linux/msm_geni_serial.h

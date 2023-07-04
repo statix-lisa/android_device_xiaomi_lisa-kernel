@@ -1,0 +1,1 @@
+cmd_usr/include/mtd/inftl-user.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/mtd/inftl-user.h usr/include/mtd/inftl-user.h

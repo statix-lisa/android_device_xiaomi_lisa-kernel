@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/cxgb3-abi.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/rdma/cxgb3-abi.h usr/include/rdma/cxgb3-abi.h

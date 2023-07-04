@@ -1,0 +1,1 @@
+cmd_usr/include/linux/vbox_vmmdev_types.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/vbox_vmmdev_types.h usr/include/linux/vbox_vmmdev_types.h

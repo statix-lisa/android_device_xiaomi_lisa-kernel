@@ -1,0 +1,1 @@
+cmd_usr/include/linux/ipa_qmi_service_v01.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/ipa_qmi_service_v01.h usr/include/linux/ipa_qmi_service_v01.h

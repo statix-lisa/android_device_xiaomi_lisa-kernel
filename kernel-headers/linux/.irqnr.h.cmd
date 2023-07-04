@@ -1,0 +1,1 @@
+cmd_usr/include/linux/irqnr.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/irqnr.h usr/include/linux/irqnr.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/ppp_defs.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/ppp_defs.h usr/include/linux/ppp_defs.h

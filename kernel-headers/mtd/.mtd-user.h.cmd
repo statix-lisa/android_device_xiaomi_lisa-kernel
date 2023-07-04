@@ -1,0 +1,1 @@
+cmd_usr/include/mtd/mtd-user.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/mtd/mtd-user.h usr/include/mtd/mtd-user.h

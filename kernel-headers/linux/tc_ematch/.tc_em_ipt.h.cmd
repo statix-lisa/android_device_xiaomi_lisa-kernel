@@ -1,0 +1,1 @@
+cmd_usr/include/linux/tc_ematch/tc_em_ipt.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/tc_ematch/tc_em_ipt.h usr/include/linux/tc_ematch/tc_em_ipt.h

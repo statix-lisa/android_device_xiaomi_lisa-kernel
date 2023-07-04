@@ -1,0 +1,1 @@
+cmd_usr/include/linux/target_core_user.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/target_core_user.h usr/include/linux/target_core_user.h

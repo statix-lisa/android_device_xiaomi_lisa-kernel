@@ -1,0 +1,1 @@
+cmd_usr/include/scsi/scsi_netlink_fc.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/scsi/scsi_netlink_fc.h usr/include/scsi/scsi_netlink_fc.h

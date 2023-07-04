@@ -1,0 +1,1 @@
+cmd_usr/include/linux/btrfs.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/btrfs.h usr/include/linux/btrfs.h

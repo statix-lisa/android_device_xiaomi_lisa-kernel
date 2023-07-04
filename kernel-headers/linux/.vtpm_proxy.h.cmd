@@ -1,0 +1,1 @@
+cmd_usr/include/linux/vtpm_proxy.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/vtpm_proxy.h usr/include/linux/vtpm_proxy.h

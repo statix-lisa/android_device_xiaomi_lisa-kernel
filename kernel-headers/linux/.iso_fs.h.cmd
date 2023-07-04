@@ -1,0 +1,1 @@
+cmd_usr/include/linux/iso_fs.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/iso_fs.h usr/include/linux/iso_fs.h

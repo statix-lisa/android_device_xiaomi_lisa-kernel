@@ -1,0 +1,1 @@
+cmd_usr/include/camera/media/cam_fd.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/techpack/camera/include/uapi/camera/media/cam_fd.h usr/include/camera/media/cam_fd.h

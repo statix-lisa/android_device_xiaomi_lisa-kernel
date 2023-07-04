@@ -1,0 +1,1 @@
+cmd_usr/include/linux/io_uring.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/io_uring.h usr/include/linux/io_uring.h

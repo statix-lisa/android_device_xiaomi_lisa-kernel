@@ -1,0 +1,1 @@
+cmd_usr/include/linux/can/j1939.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/can/j1939.h usr/include/linux/can/j1939.h

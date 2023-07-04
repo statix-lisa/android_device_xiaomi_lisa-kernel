@@ -1,0 +1,1 @@
+cmd_usr/include/linux/if_pppox.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/if_pppox.h usr/include/linux/if_pppox.h

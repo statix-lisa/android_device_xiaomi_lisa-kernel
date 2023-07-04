@@ -1,0 +1,1 @@
+cmd_usr/include/vidc/media/msm_vidc_utils.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/techpack/video/include/uapi/vidc/media/msm_vidc_utils.h usr/include/vidc/media/msm_vidc_utils.h

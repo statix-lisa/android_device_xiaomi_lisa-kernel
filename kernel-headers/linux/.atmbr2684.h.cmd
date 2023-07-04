@@ -1,0 +1,1 @@
+cmd_usr/include/linux/atmbr2684.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/atmbr2684.h usr/include/linux/atmbr2684.h

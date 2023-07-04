@@ -1,0 +1,1 @@
+cmd_usr/include/mtd/mtd-abi.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/mtd/mtd-abi.h usr/include/mtd/mtd-abi.h

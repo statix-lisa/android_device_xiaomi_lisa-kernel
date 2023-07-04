@@ -1,0 +1,1 @@
+cmd_usr/include/linux/v4l2-common.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/v4l2-common.h usr/include/linux/v4l2-common.h

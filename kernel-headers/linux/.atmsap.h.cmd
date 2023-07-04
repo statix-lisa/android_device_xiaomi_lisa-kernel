@@ -1,0 +1,1 @@
+cmd_usr/include/linux/atmsap.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/atmsap.h usr/include/linux/atmsap.h

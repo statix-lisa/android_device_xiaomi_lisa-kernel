@@ -1,0 +1,1 @@
+cmd_usr/include/linux/dm-log-userspace.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/dm-log-userspace.h usr/include/linux/dm-log-userspace.h

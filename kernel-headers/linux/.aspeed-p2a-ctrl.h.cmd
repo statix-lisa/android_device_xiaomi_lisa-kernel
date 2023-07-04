@@ -1,0 +1,1 @@
+cmd_usr/include/linux/aspeed-p2a-ctrl.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/aspeed-p2a-ctrl.h usr/include/linux/aspeed-p2a-ctrl.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/genetlink.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/genetlink.h usr/include/linux/genetlink.h

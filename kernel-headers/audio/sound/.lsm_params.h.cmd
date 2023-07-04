@@ -1,0 +1,1 @@
+cmd_usr/include/audio/sound/lsm_params.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/techpack/audio/include/uapi/audio/sound/lsm_params.h usr/include/audio/sound/lsm_params.h

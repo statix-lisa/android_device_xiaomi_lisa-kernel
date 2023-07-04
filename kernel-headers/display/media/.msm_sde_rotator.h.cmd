@@ -1,0 +1,1 @@
+cmd_usr/include/display/media/msm_sde_rotator.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/techpack/display/include/uapi/display/media/msm_sde_rotator.h usr/include/display/media/msm_sde_rotator.h

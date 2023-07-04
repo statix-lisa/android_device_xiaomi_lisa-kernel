@@ -1,0 +1,1 @@
+cmd_usr/include/linux/bcm933xx_hcs.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/bcm933xx_hcs.h usr/include/linux/bcm933xx_hcs.h

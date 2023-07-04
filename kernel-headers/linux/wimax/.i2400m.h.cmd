@@ -1,0 +1,1 @@
+cmd_usr/include/linux/wimax/i2400m.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/wimax/i2400m.h usr/include/linux/wimax/i2400m.h

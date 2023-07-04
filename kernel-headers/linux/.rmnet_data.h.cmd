@@ -1,0 +1,1 @@
+cmd_usr/include/linux/rmnet_data.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/rmnet_data.h usr/include/linux/rmnet_data.h

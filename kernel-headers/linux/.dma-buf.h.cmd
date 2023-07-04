@@ -1,0 +1,1 @@
+cmd_usr/include/linux/dma-buf.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/dma-buf.h usr/include/linux/dma-buf.h

@@ -1,0 +1,1 @@
+cmd_usr/include/asm-generic/bpf_perf_event.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/asm-generic/bpf_perf_event.h usr/include/asm-generic/bpf_perf_event.h

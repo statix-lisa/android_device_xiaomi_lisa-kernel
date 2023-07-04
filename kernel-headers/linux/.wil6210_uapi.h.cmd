@@ -1,0 +1,1 @@
+cmd_usr/include/linux/wil6210_uapi.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/wil6210_uapi.h usr/include/linux/wil6210_uapi.h

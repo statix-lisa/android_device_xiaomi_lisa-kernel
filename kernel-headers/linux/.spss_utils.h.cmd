@@ -1,0 +1,1 @@
+cmd_usr/include/linux/spss_utils.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/spss_utils.h usr/include/linux/spss_utils.h

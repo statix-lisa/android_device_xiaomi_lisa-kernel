@@ -1,0 +1,1 @@
+cmd_usr/include/linux/adfs_fs.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/adfs_fs.h usr/include/linux/adfs_fs.h

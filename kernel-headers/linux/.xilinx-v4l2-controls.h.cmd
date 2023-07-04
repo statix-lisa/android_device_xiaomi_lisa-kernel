@@ -1,0 +1,1 @@
+cmd_usr/include/linux/xilinx-v4l2-controls.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/xilinx-v4l2-controls.h usr/include/linux/xilinx-v4l2-controls.h

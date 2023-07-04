@@ -1,0 +1,1 @@
+cmd_usr/include/linux/hsi/hsi_char.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/hsi/hsi_char.h usr/include/linux/hsi/hsi_char.h

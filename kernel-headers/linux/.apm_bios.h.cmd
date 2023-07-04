@@ -1,0 +1,1 @@
+cmd_usr/include/linux/apm_bios.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/apm_bios.h usr/include/linux/apm_bios.h

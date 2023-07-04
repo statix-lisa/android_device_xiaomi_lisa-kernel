@@ -1,0 +1,1 @@
+cmd_usr/include/drm/i915_drm.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/drm/i915_drm.h usr/include/drm/i915_drm.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/usb/video.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/usb/video.h usr/include/linux/usb/video.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/rio_cm_cdev.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/rio_cm_cdev.h usr/include/linux/rio_cm_cdev.h

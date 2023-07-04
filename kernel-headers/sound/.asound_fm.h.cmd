@@ -1,0 +1,1 @@
+cmd_usr/include/sound/asound_fm.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/sound/asound_fm.h usr/include/sound/asound_fm.h

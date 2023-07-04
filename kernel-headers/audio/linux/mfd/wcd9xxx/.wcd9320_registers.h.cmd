@@ -1,0 +1,1 @@
+cmd_usr/include/audio/linux/mfd/wcd9xxx/wcd9320_registers.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/techpack/audio/include/uapi/audio/linux/mfd/wcd9xxx/wcd9320_registers.h usr/include/audio/linux/mfd/wcd9xxx/wcd9320_registers.h

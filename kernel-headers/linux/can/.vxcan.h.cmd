@@ -1,0 +1,1 @@
+cmd_usr/include/linux/can/vxcan.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/can/vxcan.h usr/include/linux/can/vxcan.h

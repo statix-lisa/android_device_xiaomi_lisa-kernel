@@ -1,0 +1,1 @@
+cmd_usr/include/linux/aio_abi.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/aio_abi.h usr/include/linux/aio_abi.h

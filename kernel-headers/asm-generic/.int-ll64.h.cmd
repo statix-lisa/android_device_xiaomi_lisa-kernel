@@ -1,0 +1,1 @@
+cmd_usr/include/asm-generic/int-ll64.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/asm-generic/int-ll64.h usr/include/asm-generic/int-ll64.h

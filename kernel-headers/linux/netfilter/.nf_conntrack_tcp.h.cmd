@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter/nf_conntrack_tcp.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/linux/netfilter/nf_conntrack_tcp.h usr/include/linux/netfilter/nf_conntrack_tcp.h

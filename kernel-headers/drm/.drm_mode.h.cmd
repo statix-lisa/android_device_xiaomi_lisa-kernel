@@ -1,0 +1,1 @@
+cmd_usr/include/drm/drm_mode.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/drm/drm_mode.h usr/include/drm/drm_mode.h

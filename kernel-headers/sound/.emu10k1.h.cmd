@@ -1,0 +1,1 @@
+cmd_usr/include/sound/emu10k1.h := sh /home/itsvixano/los20/kernel/xiaomi/sm8350/scripts/headers_install.sh /home/itsvixano/los20/kernel/xiaomi/sm8350/include/uapi/sound/emu10k1.h usr/include/sound/emu10k1.h
