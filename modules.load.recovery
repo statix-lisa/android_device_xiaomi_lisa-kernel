@@ -1,0 +1,4 @@
+msm_drm.ko
+goodix_core.ko
+hwid.ko
+xiaomi_touch.ko
